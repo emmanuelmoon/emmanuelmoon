@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [github.com/emmanuelmoon](github.com/emmanuelmoon)
+- 👨‍💻 All of my projects are available at [github](https://www.github.com/emmanuelmoon)
 
 - 📫 How to reach me **emmenual123@gmail.com**
 
