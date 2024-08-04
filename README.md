@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **emmenual123@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FSpWwOsTHeTC2bgeePfJr3K8jSF42m_W/edit?usp=sharing&ouid=116202464798436554619&rtpof=true&sd=true](https://docs.google.com/document/d/1FSpWwOsTHeTC2bgeePfJr3K8jSF42m_W/edit?usp=sharing&ouid=116202464798436554619&rtpof=true&sd=true)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1FSpWwOsTHeTC2bgeePfJr3K8jSF42m_W/edit?usp=sharing&ouid=116202464798436554619&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
