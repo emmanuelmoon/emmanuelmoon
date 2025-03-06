@@ -42,6 +42,12 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=idea" alt="intellij idea" width="80" height="80"/>
   </a>
+   <a href="https://www.github.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="github" width="80" height="80"/>
+  </a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="80" height="80"/>
+  </a>
   <br />
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
@@ -51,9 +57,6 @@
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
