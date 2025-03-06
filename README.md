@@ -70,9 +70,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pandas" alt="pandas" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
   </a>
