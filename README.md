@@ -42,11 +42,14 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=idea" alt="intellij idea" width="80" height="80"/>
   </a>
-   <a href="https://www.github.com" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github" alt="github" width="80" height="80"/>
   </a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="80" height="80"/>
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=maven" alt="maven" width="80" height="80"/>
   </a>
   <br />
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
