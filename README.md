@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently working with **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [github](https://www.github.com/emmanuelmoon)
+- 👨‍💻 All of my projects are available at [github](https://www.github.com/emmanuelmoon){:target="_blank"}
 
 - 📫 How to reach me **emmenual123@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iLz9Rnyvy2KtuTYISB_fMm-oqjN-xPkL/view?usp=sharing" target="_blank">here</a>
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1iLz9Rnyvy2KtuTYISB_fMm-oqjN-xPkL/view?usp=sharing){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
