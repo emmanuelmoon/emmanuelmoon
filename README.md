@@ -39,6 +39,9 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="80" height="80"/>
   </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=idea" alt="intellij idea" width="80" height="80"/>
+  </a>
   <br />
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
