@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">A passionate programmer from Karachi, Pakistan</h3>
+<h3 align="center">A Junior Software Engineer from Karachi, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelmoon&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelmoon" /> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently working with **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [github](https://www.github.com/emmanuelmoon)
 
