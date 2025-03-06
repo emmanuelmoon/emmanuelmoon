@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=csharp" alt="csharp" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
