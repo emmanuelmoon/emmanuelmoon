@@ -51,6 +51,9 @@
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=maven" alt="maven" width="80" height="80"/>
   </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="80" height="80"/>
+  </a>
   <br />
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
